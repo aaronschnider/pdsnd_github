@@ -1,4 +1,4 @@
-### Python Script to Explore US Bikeshare Data
+## Python Script to Explore US Bikeshare Data
 This project uses Python to explore and understand data related to bikeshare systems in Chicago, New York City, and Washington.
 
 ### How to Run this Script
