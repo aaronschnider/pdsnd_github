@@ -44,3 +44,5 @@ Statistics on users
 * Counts of user types
 * Counts of genders
 * Birth years (earliest, most recent, and most common)
+
+Displays raw data 5 lines at a time upon request
